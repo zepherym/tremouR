@@ -83,6 +83,7 @@
             libGL
             fontconfig
             freetype
+            alsa-lib
           ];
 
           nativeBuildInputs = with pkgs; [
